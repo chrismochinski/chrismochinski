@@ -1,45 +1,66 @@
 ## Greetings! &nbsp; 👋
 
-### My name is Chris. Everyone calls me <span style="color:#2FB7F7">"Mo"</span> - even my parents, sometimes. I am a...
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20px" />](https://www.instagram.com/chrismochinski/)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="20px" />](https://github.com/chrismochinski)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="20px" />](https://www.linkedin.com/in/chrismochinski/)
+[<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="20px" />](https://www.youtube.com/channel/UCBHoYbMWVGz_hlysLXMwVJw)
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="20px" />](https://twitter.com/holymosesmusic)
+
+My name is Chris. Everyone calls me **Mo** - even my parents, sometimes. I am a...
+
 - 💻 &nbsp; Full-Stack Software Developer
 - 🎸 &nbsp; Musician
 - 🎛️ &nbsp; Multimedia Producer
-- 🎳 &nbsp; Bowler
-- ₿ &nbsp; Cryptocurrency Trader
+- 🏃 &nbsp; Runner
+- 📈 &nbsp; Cryptocurrency Trader
 - 🧹 &nbsp; Neat Freak
 - 🙌 &nbsp; Kindness Advocate
 
-I'm currently buttoning up a two-week solo sprint featuring a Cryptocurrency Market Data & Portfolio Tracker 📈  which my awesome stepkid named [**"Magic Beans"**](https://secure-bayou-02606.herokuapp.com/).
+# 🚀 &nbsp; Technologies
 
-This week, I dove headfirst into C# / .NET 👨‍💻 and am wrapping up some pair programming on a Pet Hotel Management Application.
+## Frontend
 
-FUN FACT: 🍞 I eat a single slice of peanut butter toast every night around 10:30 PM. Yes, I understand this is strange.
+<p float="left">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="23px" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="23px" />
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" height="23px" />
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" height="23px" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="23px" />
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" height="23px" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="23px" />
+<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="23px" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="23px" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="23px" />
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" height="23px" />
 
-## 💬 &nbsp; **I'd love to hear from you!** 
+  </p>
 
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.linkedin.com/in/chrismochinski/)
-[<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">](https://stackoverflow.com/users/16569592/chris-mo?tab=profile)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.instagram.com/chrismochinski/)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/holymosesmusic)
-[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/justmowilldo/)
-[<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">](https://discordapp.com/users/3649/)
 
----
+
+
+## Backend
+<p float="left">
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" height="23px" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="23px" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" height="23px" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="23px" />
+  </p>
+  
+### Deployment / Testing / Workspaces / Other
+<p float="left">
+<img src="https://camo.githubusercontent.com/04a90f19cc0a94d20300039f986297ab6426f354bf27a65c6d19e0402a1898af/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5653253230436f64652532302d2532333030374143432e7376673f267374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465">
+<img src="https://camo.githubusercontent.com/38dc483f86127bf22df70fa9a1c3f497f2dca29ee0d58ee61ce50e5d8ea567a3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742532302d2532334630353033332e7376673f267374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d7768697465">
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" height="20px">
+<img src="https://aleen42.github.io/badges/src/photoshop.svg">
+<img src="https://aleen42.github.io/badges/src/flash.svg">
+
+<img src="https://camo.githubusercontent.com/19d027db86b88a4322f90c87054331d5013b4c285981fc33df286963db888b77/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2532302d4646364333373f7374796c653d666c61742d737175617265266c6f676f3d706f73746d616e266c6f676f436f6c6f723d726564">
+<img src="https://camo.githubusercontent.com/bc74832583eee75257321cc7e23d5c87f3207a191af4dd6fab5147949bb68e25/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e706d2532302d2532334342333833372e7376673f267374796c653d666c61742d737175617265266c6f676f3d6e706d266c6f676f436f6c6f723d626c61636b">
+<img src="https://camo.githubusercontent.com/e39a552a5bbb5dcd305de9bb88c78220c614d002a0f00cc771f31d3eb110425a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5472656c6c6f2532302d2532333032364141372e7376673f267374796c653d666c61742d737175617265266c6f676f3d5472656c6c6f266c6f676f436f6c6f723d7768697465">
+   
+</p>
+
+
 ## 📈 &nbsp; My GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=chrismochinski&show_icons=true)
 
-
-<!--
-**chrismochinski/chrismochinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
