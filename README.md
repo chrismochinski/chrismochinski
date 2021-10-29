@@ -8,7 +8,6 @@
 
 ### My name is Chris. Everyone calls me "Mo". Even my parents, sometimes. I am a...
 
-<br />
 
 - 💻 &nbsp; Full-Stack Software Developer
 - 🎸 &nbsp; Musician
