@@ -6,7 +6,7 @@
 [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="20px" />](https://www.youtube.com/channel/UCBHoYbMWVGz_hlysLXMwVJw)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="20px" />](https://twitter.com/holymosesmusic)
 
-### My name is Chris. Everyone calls me "Mo". Even my parents, sometimes. I am a...
+### My name is Chris. Everyone calls me "Mo." Even my parents, sometimes. I am a...
 
 
 - 💻 &nbsp; Full-Stack Software Developer
@@ -16,6 +16,7 @@
 - 📈 &nbsp; Cryptocurrency Trader
 - 🧹 &nbsp; Neat Freak
 - 🙌 &nbsp; Kindness Advocate
+- 📍 &nbsp; Minneapolis / Rochester, MN
 
 
 # Technologies 🚀
