@@ -20,7 +20,7 @@
 
 # Technologies 🚀
 
-## Front-End 
+## Frontend 
 
 <p float="left">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="23px" />
@@ -39,7 +39,7 @@
 
 
 
-## Back-End 
+## Backend 
 <p float="left">
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" height="23px" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="23px" />
@@ -48,7 +48,7 @@
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="23px" />
   </p>
   
-### Deployment / Testing / Workspaces / Other
+### Deployment / Testing / Workspaces
 <p float="left">
 <img src="https://camo.githubusercontent.com/04a90f19cc0a94d20300039f986297ab6426f354bf27a65c6d19e0402a1898af/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5653253230436f64652532302d2532333030374143432e7376673f267374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465" height="20px" />
 <img src="https://camo.githubusercontent.com/38dc483f86127bf22df70fa9a1c3f497f2dca29ee0d58ee61ce50e5d8ea567a3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742532302d2532334630353033332e7376673f267374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d7768697465" height="20px" />
