@@ -72,5 +72,5 @@
 
 ## 📈 &nbsp; My GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=chrismochinski&show_icons=true) <br />
-![Stat Bar Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=chrismochinski&theme=blue-green)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrismochinski&theme=blue-green)
 
