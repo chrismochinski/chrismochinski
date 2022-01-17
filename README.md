@@ -70,10 +70,7 @@
 </p>
 
 
-## 📈 &nbsp; My GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=chrismochinski&show_icons=true&theme=radical&custom_title=Yeahboiiiiii"><br /><br />
-  
+## 📈 &nbsp; My GitHub Stats  
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=chrismochinski&show_icons=true&theme=radical)<br /><br />
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrismochinski&theme=blue-green)
 
