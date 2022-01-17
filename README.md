@@ -74,10 +74,3 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=chrismochinski&show_icons=true&theme=radical&custom_title=Mo's%20Funky%20Stats%20🤘)<br /><br />
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrismochinski&theme=blue-green&custom_title=I%20Have%20Been%20Using:)
 <br /><br />
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
-
