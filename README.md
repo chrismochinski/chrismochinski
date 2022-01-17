@@ -72,7 +72,7 @@
 
 ## 📈 &nbsp; My GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=chrismochinski&show_icons=true&theme=radical)" custom_title="Mo's Funky Stuff" alt="Mo's GitHub Stats"><br /><br />
+<img src="https://github-readme-stats.vercel.app/api?username=chrismochinski&show_icons=true&theme=radical" custom_title=funkystuff><br /><br />
   
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=chrismochinski&show_icons=true&theme=radical)<br /><br />
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrismochinski&theme=blue-green)
