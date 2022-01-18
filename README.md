@@ -65,8 +65,8 @@
 
 
 ## 📈 &nbsp; My GitHub Stats 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=chrismochinski&show_icons=true&theme=radical&custom_title=Mo's%20Funky%20Stats%20🤘)<br /><br />
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrismochinski&theme=blue-green&custom_title=I%20Have%20Been%20Using:)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=chrismochinski&show_icons=true&theme=radical&custom_title=Mo's%20Funky%20Stats)<br /><br />
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrismochinski&theme=blue-green&custom_title=I%20Have%20Been%20Making%20Stuff%20With:)
 <br /><br />
 [![Mo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chrismochinski)](https://github.com/chrismochinski/github-readme-stats)
 
