@@ -70,3 +70,4 @@
 <br /><br />
 [![Mo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chrismochinski)](https://github.com/chrismochinski/github-readme-stats)
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=chrismochinski.visitor-badge&left_color=purple&right_color=green) 
