@@ -70,4 +70,5 @@
 <br /><br />
 [![Mo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chrismochinski)](https://github.com/chrismochinski/github-readme-stats)
 
-<img src="https://camo.githubusercontent.com/1cc71573cc442f688aa7e05ba6b8f993b5484bb338845c10ffb9a302e3783841/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d63687269736d6f6368696e736b692e76697369746f722d6261646765266c6566745f636f6c6f723d707572706c652672696768745f636f6c6f723d677265656e" alt="visitor badge" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=chrismochinski.visitor-badge&amp;left_color=black&amp;right_color=light-blue" style="max-width: 80px; opacity: 50%">
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge style="opacity: 40%")
+
