@@ -69,6 +69,3 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrismochinski&theme=blue-green&custom_title=Makin'%20Neat%20Stuff%20With:)
 <br /><br />
 [![Mo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chrismochinski)](https://github.com/chrismochinski/github-readme-stats)
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=chrismochinski.visitor-badge)
-
