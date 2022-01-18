@@ -70,5 +70,5 @@
 <br /><br />
 [![Mo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chrismochinski)](https://github.com/chrismochinski/github-readme-stats)
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge style="opacity: 40%")
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 
