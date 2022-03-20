@@ -1,6 +1,6 @@
 # Greetings! 👋 
 
-<!-- [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20px" />](https://www.linkedin.com/in/chrismochinski/) -->
+
 <a href="https://www.linkedin.com/in/chrismochinski/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20px" /></a>
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="20px" />](https://www.instagram.com/chrismochinski/)
 [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="20px" />](https://www.youtube.com/channel/UCBHoYbMWVGz_hlysLXMwVJw)
