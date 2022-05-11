@@ -15,7 +15,7 @@
 - 📈 &nbsp; Cryptocurrency Trader
 - 🧹 &nbsp; Neat Freak
 - 🙌 &nbsp; Kindness Advocate
-- 📍 &nbsp; Resident of Minneapolis & Rochester, MN
+- 📍 &nbsp; Resident of both Minneapolis & Rochester, MN
 
 
 # Technologies 🚀
