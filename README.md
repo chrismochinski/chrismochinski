@@ -10,7 +10,7 @@
 
 - 💻 &nbsp; <a href="https://chrismochinski.github.io/">Full-Stack Software Developer</a>
 - 🎸 &nbsp; <a href="https://www.junkfm.com/">Musician & Performer</a>
-- <a href="https://youtu.be/vnktXHBvE8s">Animator</a>
+- 🎬 &nbsp; <a href="https://youtu.be/vnktXHBvE8s">Animator</a>
 - 🎛️ &nbsp; Multimedia Producer
 - 🏃 &nbsp; Runner
 - 📈 &nbsp; Cryptocurrency Trader
