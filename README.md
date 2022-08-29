@@ -8,7 +8,7 @@
 ### My name is Chris. Most people call me "Mo." I am a...
 
 
-- 💻 &nbsp; Full-Stack Software Developer
+- 💻 &nbsp; <a href="https://chrismochinski.github.io/" target="_blank">Full-Stack Software Developer</a>
 - 🎸 &nbsp; Musician
 - 🎛️ &nbsp; Multimedia Producer
 - 🏃 &nbsp; Runner
