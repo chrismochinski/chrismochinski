@@ -9,7 +9,7 @@
 
 
 - 💻 &nbsp; <a href="https://chrismochinski.github.io/">Full-Stack Software Developer</a>
-- 🎸 &nbsp; <a href="https://www.junkfm.com/">Musician & Performer</a>
+- 🎸 &nbsp; <a href="https://www.raddaradda.com/">Musician</a> &amp; <a href="https://www.junkfm.com/">Performer</a>
 - 🎬 &nbsp; <a href="https://youtu.be/vnktXHBvE8s">Animator</a>
 - 🎛️ &nbsp; Multimedia Producer
 - 🏃 &nbsp; Runner
