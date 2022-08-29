@@ -8,13 +8,14 @@
 ### My name is Chris. Most people call me "Mo." I am a...
 
 
-- 💻 &nbsp; <a href="https://chrismochinski.github.io/" target="_blank">Full-Stack Software Developer</a>
-- 🎸 &nbsp; Musician
+- 💻 &nbsp; <a href="https://chrismochinski.github.io/">Full-Stack Software Developer</a>
+- 🎸 &nbsp; <a href="https://www.junkfm.com/">Musician & Performer</a>
+- <a href="https://youtu.be/vnktXHBvE8s">Animator</a>
 - 🎛️ &nbsp; Multimedia Producer
 - 🏃 &nbsp; Runner
 - 📈 &nbsp; Cryptocurrency Trader
 - 🧹 &nbsp; Neat Freak
-- 🙌 &nbsp; Kindness Advocate
+- 🙌 &nbsp; <a href="https://characterstrong.com/">Kindness Advocate</a>
 
 
 # Technologies 🚀
