@@ -56,7 +56,6 @@
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" height="20px" />
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="20px" />
 <img src="https://aleen42.github.io/badges/src/photoshop.svg" height="20px" />
-<img src="https://badgen.net/badge/Pixelmator/yellow?icon=pixelmator"
 <img src="https://aleen42.github.io/badges/src/flash.svg" height="20px" />
 
 <img src="https://camo.githubusercontent.com/19d027db86b88a4322f90c87054331d5013b4c285981fc33df286963db888b77/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2532302d4646364333373f7374796c653d666c61742d737175617265266c6f676f3d706f73746d616e266c6f676f436f6c6f723d726564" height="20px" />
