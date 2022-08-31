@@ -20,7 +20,7 @@
 
 # Technologies 🚀
 
-## Frontend 
+## Front End 
 
 <p float="left">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="23px" />
@@ -39,7 +39,7 @@
   </p>
 
 
-## Backend 
+## Back End 
 <p float="left">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="23px" />
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="23px" />
