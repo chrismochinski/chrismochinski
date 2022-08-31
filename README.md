@@ -48,18 +48,7 @@
   </p>
   
   
-  
-  
-## Design & Production 
-<p float="left">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="23px" />
-<img src="https://aleen42.github.io/badges/src/photoshop.svg" height="23px" />
-<img src="https://raw.githubusercontent.com/chrismochinski/github-badges/ef6af1262a70356a004b77760af7df4f1e2adf3b/pixelmator-github-shield.svg" height="23px" />
-<img src="https://raw.githubusercontent.com/chrismochinski/github-badges/ef6af1262a70356a004b77760af7df4f1e2adf3b/fcp-github-shield.svg" height="23px" />
-<img src="https://raw.githubusercontent.com/chrismochinski/github-badges/ef6af1262a70356a004b77760af7df4f1e2adf3b/moho-github-shield.svg" height="23px" />
-<img src="https://aleen42.github.io/badges/src/flash.svg" height="23px" />
 
-  </p>
   
 ### Deployment / Testing / Workspaces / Etc
 <p float="left">
@@ -73,6 +62,22 @@
   <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" height="23px" />
    
 </p>
+
+
+
+  
+  
+## Design & Production 
+<p float="left">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="23px" />
+<img src="https://aleen42.github.io/badges/src/photoshop.svg" height="23px" />
+<img src="https://raw.githubusercontent.com/chrismochinski/github-badges/ef6af1262a70356a004b77760af7df4f1e2adf3b/pixelmator-github-shield.svg" height="23px" />
+<img src="https://raw.githubusercontent.com/chrismochinski/github-badges/ef6af1262a70356a004b77760af7df4f1e2adf3b/fcp-github-shield.svg" height="23px" />
+<img src="https://raw.githubusercontent.com/chrismochinski/github-badges/ef6af1262a70356a004b77760af7df4f1e2adf3b/moho-github-shield.svg" height="23px" />
+<img src="https://raw.githubusercontent.com/chrismochinski/github-badges/6ef73d4ffcc4e2bf20e4991401682a054be5d527/lopic-pro-github-badge.svg" height="23px" />
+<img src="https://aleen42.github.io/badges/src/flash.svg" height="23px" />
+
+  </p>
 
 
 ## 📈 &nbsp; My GitHub Stats 
