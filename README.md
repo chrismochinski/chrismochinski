@@ -54,6 +54,7 @@
 <p float="left">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="23px" />
 <img src="https://aleen42.github.io/badges/src/photoshop.svg" height="23px" />
+<img src="https://user-images.githubusercontent.com/85808922/187761107-6a174126-cd58-43a8-a977-012a60a3471e.svg" height="23px" />
 <img src="https://aleen42.github.io/badges/src/flash.svg" height="23px" />
 
   </p>
