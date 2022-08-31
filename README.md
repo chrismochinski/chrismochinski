@@ -55,7 +55,7 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="23px" />
 <img src="https://aleen42.github.io/badges/src/photoshop.svg" height="23px" />
 <img src="https://user-images.githubusercontent.com/85808922/187761107-6a174126-cd58-43a8-a977-012a60a3471e.svg" height="23px" />
-<img src="https://user-images.githubusercontent.com/85808922/187764242-66bec1a7-b69c-46e0-a80e-677b08ea8ce4.svg" height="23px" />
+<img src="https://raw.githubusercontent.com/chrismochinski/github-badges/ef6af1262a70356a004b77760af7df4f1e2adf3b/fcp-github-shield.svg" height="23px" />
 <img src="https://user-images.githubusercontent.com/85808922/187765895-b2be9306-3c28-4041-bc4e-64a3c1205fb1.svg" height="23px" />
 <img src="https://aleen42.github.io/badges/src/flash.svg" height="23px" />
 
