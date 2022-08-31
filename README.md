@@ -51,6 +51,7 @@
   
   
 ## Design & Production 
+<p float="left">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="23px" />
 <img src="https://aleen42.github.io/badges/src/photoshop.svg" height="23px" />
 <img src="https://aleen42.github.io/badges/src/flash.svg" height="23px" />
