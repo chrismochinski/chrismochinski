@@ -77,7 +77,7 @@
 <img src="https://raw.githubusercontent.com/chrismochinski/github-badges/ef6af1262a70356a004b77760af7df4f1e2adf3b/fcp-github-shield.svg" height="23px" />
 <img src="https://raw.githubusercontent.com/chrismochinski/github-badges/ef6af1262a70356a004b77760af7df4f1e2adf3b/moho-github-shield.svg" height="23px" />
 <img src="https://raw.githubusercontent.com/chrismochinski/github-badges/6ef73d4ffcc4e2bf20e4991401682a054be5d527/lopic-pro-github-badge.svg" height="23px" />
-<img src="https://aleen42.github.io/badges/src/flash.svg" height="23px" />
+<!-- <img src="https://aleen42.github.io/badges/src/flash.svg" height="23px" /> -->
 
   </p>
 
