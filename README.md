@@ -36,7 +36,7 @@
  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" height="23px" />
 <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="23px" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="23px" />
-   <img src="https://raw.githubusercontent.com/chrismochinski/github-badges/a42a14314d9770672822d7b1606627c365d24b21/mantine-github-shield.svg" height="23px" />
+   <img src="https://raw.githubusercontent.com/chrismochinski/github-badges/33cdbb32b3e4c0199d53aa715461d169c71fd233/mantine-github-shield.svg" height="23px" />
   </p>
 
 
