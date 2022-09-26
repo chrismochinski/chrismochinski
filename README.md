@@ -69,7 +69,7 @@
 
   
   
-## Design & Production 
+<!-- ## Design & Production 
 <p float="left">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="23px" />
 <img src="https://aleen42.github.io/badges/src/photoshop.svg" height="23px" />
@@ -77,7 +77,6 @@
 <img src="https://raw.githubusercontent.com/chrismochinski/github-badges/ef6af1262a70356a004b77760af7df4f1e2adf3b/fcp-github-shield.svg" height="23px" />
 <img src="https://raw.githubusercontent.com/chrismochinski/github-badges/ef6af1262a70356a004b77760af7df4f1e2adf3b/moho-github-shield.svg" height="23px" />
 <img src="https://raw.githubusercontent.com/chrismochinski/github-badges/6ef73d4ffcc4e2bf20e4991401682a054be5d527/lopic-pro-github-badge.svg" height="23px" />
-<!-- <img src="https://aleen42.github.io/badges/src/flash.svg" height="23px" /> -->
 
   </p>
 
@@ -87,6 +86,8 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=chrismochinski&show_icons=true&theme=radical&custom_title=Mo's%20Funky%20Stats)<br /><br />
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrismochinski&theme=blue-green&custom_title=Makin'%20Neat%20Stuff%20With:)
 <br /><br />
-<!-- [![chrismochinski's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chrismochinski)](https://github.com/anuraghazra/github-readme-stats) -->
+
+-->
+
 
 
