@@ -69,7 +69,7 @@
 
   
   
-<!-- ## Design & Production 
+## Design & Production 
 <p float="left">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="23px" />
 <img src="https://aleen42.github.io/badges/src/photoshop.svg" height="23px" />
@@ -87,7 +87,7 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrismochinski&theme=blue-green&custom_title=Makin'%20Neat%20Stuff%20With:)
 <br /><br />
 
--->
+
 
 
 
