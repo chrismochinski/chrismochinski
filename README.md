@@ -85,9 +85,9 @@
 <!-- [![chrismochinski's github streak](https://github-readme-streak-stats.herokuapp.com/?user=chrismochinski&theme=blue-green)](https://chrismochinski.com) <br /> <br /> -->
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=chrismochinski&show_icons=true&theme=radical&custom_title=Mo's%20Funky%20Stats)<br /><br />
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrismochinski&theme=blue-green&custom_title=Makin'%20Neat%20Stuff%20With:)
-<br /><br />
+<br />
 
-
-<a href="https://www.buymeacoffee.com/chrismochinski" target="_blank"><img src="https://raw.githubusercontent.com/chrismochinski/github-badges/3d3ba7150c2ef25e450d591f88cdc0eb2e2c7539/buy-mo-coffee.png" height="75px" /></a>
+### Buy Me Coffee 😃
+<a href="https://www.buymeacoffee.com/chrismochinski" target="_blank"><img src="https://raw.githubusercontent.com/chrismochinski/github-badges/3d3ba7150c2ef25e450d591f88cdc0eb2e2c7539/buy-mo-coffee.png" height="125px" /></a>
 
 
