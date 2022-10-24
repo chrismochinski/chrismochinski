@@ -1,4 +1,4 @@
-# Greetings! 👋 <img src="https://raw.githubusercontent.com/chrismochinski/github-badges/main/mo-space-helmet.gif" height="60px" />
+# Greetings! 👋 
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20px" />](https://www.linkedin.com/in/chrismochinski/)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="20px" />](https://www.instagram.com/chrismochinski/)
