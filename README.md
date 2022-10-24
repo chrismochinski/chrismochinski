@@ -87,6 +87,6 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrismochinski&theme=blue-green&custom_title=Makin'%20Neat%20Stuff%20With:)
 <br />
 
-<a href="https://www.buymeacoffee.com/chrismochinski"><img src="https://raw.githubusercontent.com/chrismochinski/github-badges/3d3ba7150c2ef25e450d591f88cdc0eb2e2c7539/buy-me-a-coffee-badge.png" height="120px" /></a>
+<a href="https://www.buymeacoffee.com/chrismochinski"><img src="[https://raw.githubusercontent.com/chrismochinski/github-badges/3d3ba7150c2ef25e450d591f88cdc0eb2e2c7539/buy-me-a-coffee-badge.png](https://raw.githubusercontent.com/chrismochinski/github-badges/main/buy-me-a-coffee-badge.png)" height="120px" /></a>
 
 
