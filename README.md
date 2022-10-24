@@ -4,6 +4,10 @@
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="20px" />](https://www.instagram.com/chrismochinski/)
 [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="20px" />](https://www.youtube.com/channel/UCBHoYbMWVGz_hlysLXMwVJw)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="20px" />](https://twitter.com/holymosesmusic)
+[<img src="https://raw.githubusercontent.com/chrismochinski/github-badges/main/buy-me-a-coffee-badge.png" />]
+(https://www.buymeacoffee.com/chrismochinski/)
+
+<!-- <a href="https://www.buymeacoffee.com/chrismochinski"><img src="https://raw.githubusercontent.com/chrismochinski/github-badges/main/buy-me-a-coffee-badge.png" height="70px" /></a> -->
 
 ### My name is Chris. Most people call me "Mo." I am a...
 
@@ -87,4 +91,3 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrismochinski&theme=blue-green&custom_title=Makin'%20Neat%20Stuff%20With:)
 <br />
 
-<a href="https://www.buymeacoffee.com/chrismochinski"><img src="https://raw.githubusercontent.com/chrismochinski/github-badges/main/buy-me-a-coffee-badge.png" height="70px" /></a>
