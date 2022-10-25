@@ -18,7 +18,8 @@
 - 🧹 &nbsp; Neat Freak
 - 🙌 &nbsp; <a href="https://characterstrong.com/">Kindness Advocate</a>
 
-<a href="https://www.buymeacoffee.com/chrismochinski"><img src="https://raw.githubusercontent.com/chrismochinski/github-badges/main/buy-me-a-coffee-badge.png" height="50px" /></a>
+<br />
+<a href="https://www.buymeacoffee.com/chrismochinski"><img src="https://raw.githubusercontent.com/chrismochinski/github-badges/main/buy-me-a-coffee-badge.png" height="50px" style="border-radius: 8px;" /></a>
 
 # Technologies 🚀
 
