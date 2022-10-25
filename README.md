@@ -4,7 +4,7 @@
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="20px" />](https://www.instagram.com/chrismochinski/)
 [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="20px" />](https://www.youtube.com/channel/UCBHoYbMWVGz_hlysLXMwVJw)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="20px" />](https://twitter.com/holymosesmusic)
-<!-- <a href="https://www.buymeacoffee.com/chrismochinski"><img src="https://raw.githubusercontent.com/chrismochinski/github-badges/main/buy-me-a-coffee-badge.png" height="20px" /></a> -->
+<a href="https://www.buymeacoffee.com/chrismochinski"><img src="https://raw.githubusercontent.com/chrismochinski/github-badges/main/buy-me-a-coffee-badge.png" height="20px" /></a>
 
 ### My name is Chris. Most people call me "Mo." I am a...
 
@@ -17,9 +17,6 @@
 - 📈 &nbsp; Cryptocurrency Trader
 - 🧹 &nbsp; Neat Freak
 - 🙌 &nbsp; <a href="https://characterstrong.com/">Kindness Advocate</a>
-
-<br />
-<a href="https://www.buymeacoffee.com/chrismochinski"><img src="https://raw.githubusercontent.com/chrismochinski/github-badges/main/buy-me-a-coffee-badge.png" height="50px" style="border-radius: 8px;" /></a>
 
 # Technologies 🚀
 
