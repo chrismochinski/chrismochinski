@@ -15,7 +15,7 @@
 - 🎛️ &nbsp; Multimedia Producer
 - 🏃 &nbsp; Runner
 - 📈 &nbsp; Cryptocurrency Trader
-- 🧹 &nbsp; Neat Freak
+- 🧹 &nbsp; Tidy Person 
 - 🙌 &nbsp; <a href="https://characterstrong.com/">Kindness Advocate</a>
 
 # Technologies 🚀
