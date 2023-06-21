@@ -14,7 +14,6 @@
 - 🎬 &nbsp; <a href="https://youtu.be/vnktXHBvE8s">Animator</a>
 - 🎛️ &nbsp; Multimedia Producer
 - 🏃 &nbsp; Runner
-- 📈 &nbsp; Cryptocurrency Trader
 - 🧹 &nbsp; Tidy Person 
 - 🙌 &nbsp; <a href="https://characterstrong.com/">Kindness Advocate</a>
 
