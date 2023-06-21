@@ -15,7 +15,7 @@
 - 🎛️ &nbsp; Multimedia Producer
 - 🏃 &nbsp; Runner
 - 🧹 &nbsp; Tidy Person 
-- 🙌 &nbsp; <a href="https://characterstrong.com/">Kindness Advocate</a>
+- 🙌 &nbsp; <a href="https://characterstrong.com/" target="_blank">Kindness Advocate</a>
 
 # Technologies 🚀
 
