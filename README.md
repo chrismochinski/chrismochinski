@@ -82,7 +82,7 @@
 
 ## 📈 &nbsp; Some Stats
 [![wakatime](https://wakatime.com/badge/user/812e8698-33e9-47fa-b24f-06dc7edfe991.svg)](https://wakatime.com/@812e8698-33e9-47fa-b24f-06dc7edfe991)
-<br />
+<br /><br />
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrismochinski&theme=blue-green&custom_title=Making%20neat%20stuff%20with...)
 <br />
 
