@@ -75,6 +75,8 @@
 <img src="https://raw.githubusercontent.com/chrismochinski/github-badges/ef6af1262a70356a004b77760af7df4f1e2adf3b/pixelmator-github-shield.svg" height="23px" />
 <img src="https://raw.githubusercontent.com/chrismochinski/github-badges/ef6af1262a70356a004b77760af7df4f1e2adf3b/fcp-github-shield.svg" height="23px" />
 <img src="https://raw.githubusercontent.com/chrismochinski/github-badges/ef6af1262a70356a004b77760af7df4f1e2adf3b/moho-github-shield.svg" height="23px" />
+<img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" height="23px" />
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" height="23px />
 <img src="https://raw.githubusercontent.com/chrismochinski/github-badges/6ef73d4ffcc4e2bf20e4991401682a054be5d527/lopic-pro-github-badge.svg" height="23px" />
 
   </p>
