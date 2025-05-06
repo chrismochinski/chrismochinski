@@ -89,6 +89,8 @@
 <br /><br />
 [![Mo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chrismochinski&layout=compact)](https://github.com/chrismochinski/github-readme-stats)
 <br /><br />
+[![CSSBattle.dev](https://css-battle-badge.vercel.app/badge/?id=9ca83THs5pQFcqnBW3RCrJFcwiO2&username=wreckshop)](https://cssbattle.dev/player/wreckshop)
+<br /><br />
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrismochinski&layout=pie&theme=blue-green&custom_title=Making%20neat%20stuff%20with...)
 <br />
 
