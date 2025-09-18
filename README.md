@@ -21,12 +21,11 @@
 
 ## Front End 
 
-<p float="left">
+<div>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="23px" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="23px" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="23px" />
-
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" height="23px" />
+<img src="https://img.shields.io/badge/Redux%20saga-86D46B?style=for-the-badge&logo=redux%20saga&logoColor=999999" height="23px" />
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" height="23px" />
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" height="23px" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="23px" />
@@ -39,24 +38,24 @@
    <img src="https://raw.githubusercontent.com/chrismochinski/github-badges/33cdbb32b3e4c0199d53aa715461d169c71fd233/mantine-github-shield.svg" height="23px" />
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" height="23px" />
    <img src="https://raw.githubusercontent.com/chrismochinski/github-badges/0bdaa0e6c57f263a375898ee7532801519380fac/chakra-github-badge.svg" height="23px" />
-  </p>
+</div>
 
 
 ## Back End 
-<p float="left">
+<div>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="23px" />
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="23px" />
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" height="23px" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="23px" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" height="23px" />
 
-  </p>
+  </div>
   
   
 
   
 ### Deployment / Testing / Workspaces / Etc
-<p float="left">
+<div>
 <img src="https://img.shields.io/badge/Testing%20Library-E33332.svg?style=for-the-badge&logo=Testing-Library&logoColor=white" height="23px" />
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" height="23px" />
 <img src="https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff&style=for-the-badge" height="23px" />
@@ -72,14 +71,14 @@
 <img src="https://img.shields.io/badge/ESLint-4B32C3.svg?style=for-the-badge&logo=ESLint&logoColor=white" height="23px" />
   <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" height="23px" />
    
-</p>
+</div>
 
 
 
   
   
 ## Design & Production 
-<p float="left">
+<div>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="23px" />
 <img src="https://raw.githubusercontent.com/chrismochinski/github-badges/ef6af1262a70356a004b77760af7df4f1e2adf3b/pixelmator-github-shield.svg" height="23px" />
 <img src="https://raw.githubusercontent.com/chrismochinski/github-badges/ef6af1262a70356a004b77760af7df4f1e2adf3b/fcp-github-shield.svg" height="23px" />
@@ -88,7 +87,7 @@
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" height="23px />
 <img src="https://raw.githubusercontent.com/chrismochinski/github-badges/6ef73d4ffcc4e2bf20e4991401682a054be5d527/lopic-pro-github-badge.svg" height="23px" />
 
-  </p>
+  </div>
 
 
 ## 📈 &nbsp; Some Stats
