@@ -32,6 +32,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="23px" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="23px" />
 <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" height="23px" />
+<br />
  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" height="23px" />
 <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="23px" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="23px" />
@@ -47,6 +48,8 @@
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="23px" />
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" height="23px" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="23px" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" height="23px" />
+
   </p>
   
   
@@ -55,8 +58,13 @@
 ### Deployment / Testing / Workspaces / Etc
 <p float="left">
 <img src="https://img.shields.io/badge/Testing%20Library-E33332.svg?style=for-the-badge&logo=Testing-Library&logoColor=white" height="23px" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" height="23px" />
+<img src="https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff&style=for-the-badge" height="23px" />
+<img src="https://img.shields.io/badge/TOML-9C4121?logo=toml&logoColor=fff&style=for-the-badge" height="23px" />
+  
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" height="23px" />
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="23px" />
+  <br />
 <img src="https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white" height="23px" />
 <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white" height="23px" />
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" height="23px" />
@@ -73,7 +81,6 @@
 ## Design & Production 
 <p float="left">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="23px" />
-<img src="https://aleen42.github.io/badges/src/photoshop.svg" height="23px" />
 <img src="https://raw.githubusercontent.com/chrismochinski/github-badges/ef6af1262a70356a004b77760af7df4f1e2adf3b/pixelmator-github-shield.svg" height="23px" />
 <img src="https://raw.githubusercontent.com/chrismochinski/github-badges/ef6af1262a70356a004b77760af7df4f1e2adf3b/fcp-github-shield.svg" height="23px" />
 <img src="https://raw.githubusercontent.com/chrismochinski/github-badges/ef6af1262a70356a004b77760af7df4f1e2adf3b/moho-github-shield.svg" height="23px" />
